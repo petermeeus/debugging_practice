@@ -6,5 +6,5 @@ def is_prime(n):
             return False
     return True
 
-print(is_prime(11))
-print(is_prime(4))
+print(is_prime(11))  # Expected output: True
+print(is_prime(4))   # Expected output: False
